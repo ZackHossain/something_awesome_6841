@@ -1,0 +1,19 @@
+2024-10-31 21:52:46,243 - INFO - Response Success: [{'id': 24, 'task_id': 'b3702003-9166-46f2-af8b-d98f85510950', 'task_type': 'ping'}, {'id': 25, 'task_id': '64d8a764-0d81-41d5-ab43-9c415e314f87', 'task_type': 'ping'}, {'id': 26, 'task_id': 'a845952e-d152-4022-b247-ca33b55e509f', 'task_type': 'ping'}, {'id': 27, 'task_id': '14baebae-1308-439b-923a-c81932b88d66', 'task_type': 'ping'}, {'id': 28, 'task_id': '3ffb6abd-2a77-47a0-9c0f-e70371a1deec', 'task_type': 'ping'}, {'id': 29, 'task_id': 'b77dd275-91da-4aba-b6eb-f8a2a866fbec', 'task_type': 'ping'}, {'id': 30, 'task_id': 'a277ae6b-add1-48de-94f9-8277d68a7174', 'task_type': 'ping'}, {'id': 31, 'task_id': '90a61d16-a5eb-4152-a1ca-100aaeba6adf', 'task_type': 'ping'}]
+2024-10-31 23:42:27,063 - INFO - Response Success: [{'id': 50, 'task_id': '0afebb0a-45c1-4ee1-8d86-fac3a34d2fb2', 'task_type': 'ping'}, {'id': 51, 'task_id': '0e654b84-b3d9-43bf-bfa2-7c934424c3da', 'task_type': 'ping'}]
+2024-11-01 00:01:07,059 - INFO - Response: [{'id': 50, 'task_id': '0afebb0a-45c1-4ee1-8d86-fac3a34d2fb2', 'task_type': 'ping'}, {'id': 51, 'task_id': '0e654b84-b3d9-43bf-bfa2-7c934424c3da', 'task_type': 'ping'}]
+2024-11-01 00:01:26,714 - INFO - Response: [{'id': 50, 'task_id': '0afebb0a-45c1-4ee1-8d86-fac3a34d2fb2', 'task_type': 'ping'}, {'id': 51, 'task_id': '0e654b84-b3d9-43bf-bfa2-7c934424c3da', 'task_type': 'ping'}]
+2024-11-01 00:02:01,178 - INFO - Response: None
+2024-11-01 00:03:11,948 - INFO - Response: None
+2024-11-01 00:03:32,255 - INFO - Response: None
+2024-11-01 00:03:53,059 - INFO - Response: {'id': 1, 'target_id': '51b8d5a1-2672-4137-aeba-9f8ba8405d86', 'ip': '127.0.0.1', 'last_connect': '2024-10-31 23:30:29', 'ftp_status': 'false', 'encryption_status': 'false', 'tasks': None, 'results': None}
+2024-11-01 00:04:04,111 - INFO - Response: {'id': 1, 'target_id': '51b8d5a1-2672-4137-aeba-9f8ba8405d86', 'ip': '127.0.0.1', 'last_connect': '2024-10-31 23:30:29', 'ftp_status': 'false', 'encryption_status': 'false', 'tasks': None, 'results': None}
+2024-11-01 00:04:20,531 - INFO - Response: {'id': 1, 'target_id': '51b8d5a1-2672-4137-aeba-9f8ba8405d86', 'ip': '127.0.0.1', 'last_connect': '2024-10-31 23:30:29', 'ftp_status': 'false', 'encryption_status': 'false', 'tasks': None, 'results': None}
+2024-11-01 15:10:18,330 - INFO - Response: [{'id': 54, 'task_id': '9b8f3c26-e437-45c9-b7ba-f05c50efe0e9', 'task_type': 'encrypt'}]
+2024-11-01 16:07:48,772 - INFO - Response: []
+2024-11-01 16:08:48,894 - INFO - Response: []
+2024-11-01 16:11:09,379 - INFO - Response: []
+2024-11-01 16:11:40,188 - INFO - Response: []
+2024-11-01 16:12:34,206 - INFO - Response: []
+2024-11-01 16:13:24,044 - INFO - Response: []
+2024-11-01 16:14:01,079 - INFO - Response: []
+2024-11-01 21:21:00,882 - INFO - Response: []
